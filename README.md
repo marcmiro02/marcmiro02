@@ -8,7 +8,7 @@ I am Computer Engineering student and Software Developer.<br/>
 I am eager to learn a lot about coding to expand my knowledge in the sector.
 
 - 🔭 I’m currently working on Full-Stack developement.
-- 🌱 I’m currently enjoying Backend Development so hard.
+- 🌱 I enjoy Backend Development so hard.
 - 👯 I’m looking to collaborate with Fullstack Web Developers.
 - ⚡ Fun fact: I 💖 to code.
 - 📫 Reach me out at: marc.miro@hotmail.com <br><br>
